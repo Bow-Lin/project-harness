@@ -1,5 +1,9 @@
 # Project Harness
 
+> TLDR: 使用方法很简单：直接把 `project_harness_initialization_runbook.md` 的内容复制给 Codex、Claude Code 或其他 coding agent，并要求它“按照这个文件在当前仓库执行”。
+>
+> TLDR: To use this project, copy the contents of `project_harness_initialization_runbook.md` directly into Codex, Claude Code, or another coding agent, then ask it to "execute this file in the current repository."
+
 轻量但完整的工程执行护栏，用来帮助 Codex、Claude Code 或其他 coding agent 在一个仓库中更可靠地工作。
 
 A lightweight but complete engineering harness that helps Codex, Claude Code, or other coding agents work more reliably inside a repository.
